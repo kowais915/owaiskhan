@@ -121,7 +121,7 @@ footer{
 
 .icon{
     position: relative;
-    left: 25px;
+    left: 15px;
     top: 40px;
     margin: 40px;
 }
@@ -130,8 +130,11 @@ footer{
     top: 80px;
     border: solid 3px black;
     padding: 35px;
+    margin: 10px 80px;
     padding-right: 75px;
     background-color: lavender;
+    overflow: hidden;
+
 }
 textarea{
     position: relative;
@@ -141,15 +144,19 @@ textarea{
 .pourYourHeart{
     position: relative;
     left: 25px;
+    max-width: 100%;
 }
 
 .icon img{
-    height: 8em;
+    height: 6em;
+    position: relative;
+    left: 20px;
 }
 
 .icon h2{
-    position: absolute;
-    left: 150px;
+ 
+    margin-top: 30px;       
+    text-align: center;
     
 }
 
