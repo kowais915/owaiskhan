@@ -106,10 +106,11 @@ main .goal{
 footer{
     background-color: black;
     color:white;
-    text-align: center;
+    text-align: left;
     padding: 40px;
     opacity: 0.8;
     font-size: 20px;
+
 
 }
 
